@@ -22,7 +22,7 @@ title: Dugong Aerial Survey Database
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Description to TBD 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-test" # the subpath of your site, e.g. /blog
 url: "https://paulinelawrey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
