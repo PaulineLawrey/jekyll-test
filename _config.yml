@@ -28,6 +28,7 @@ url: "https://paulinelawrey.github.io" # the base hostname & protocol for your s
 # Build settings
 github: [metadata]
 theme: jekyll-theme-modernist
+show_downloads: true
 plugins:
   - jekyll-feed
 
